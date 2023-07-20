@@ -27,25 +27,25 @@ function FirstPage() {
                 <div className='logos-container'>
 
                     <div className='info-container'>
-                        <img alt='declarativeLogo' scr={declarativeLogo}/>
+                        <img alt='declarativeLogo' src={declarativeLogo}/>
                         <h3>Declarative</h3>
                         <p>React makes it painless to create interactive UIs.</p>
                     </div>
 
                     <div className='info-container'>
-                        <img alt='componentsLogo' scr={componentsLogo}/>
+                        <img alt='componentsLogo' src={componentsLogo}/>
                         <h3>Components</h3>
                         <p>Build encapsulated components that manage their state.</p>
                     </div>
 
                     <div className='info-container'>
-                        <img alt='singleLogo' scr={singleLogo}/>
+                        <img alt='singleLogo' src={singleLogo}/>
                         <h3>Single-Way</h3>
                         <p>A set of immutable values are passed to the components.</p>
                     </div>
 
                     <div className='info-container'>
-                        <img alt='jsxLogo' scr={jsxLogo}/>
+                        <img alt='jsxLogo' src={jsxLogo}/>
                         <h3>JSX</h3>
                         <p>Statically-typed designed to run on modern browsers.</p>
                     </div>
